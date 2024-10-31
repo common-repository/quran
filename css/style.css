@@ -1,0 +1,16 @@
+#quran {
+	direction: rtl;
+}
+#quran_title {
+	font-size: 150%;
+	margin: 5px 2px;
+}
+#quran_verse, #quran_verse_number, #quran_sura, #quran_error {
+	font-size: 120%;
+	line-height:1.5em;
+	margin: 5px 2px;
+}
+
+#quran_error {
+	color: red;
+}
